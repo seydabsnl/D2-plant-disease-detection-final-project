@@ -81,6 +81,7 @@ data/
 - Veri seti dosyası büyük olabilir, indirme süresi internet hızınıza bağlıdır
 - Veri setini indirdikten sonra `Notebook_1_Veri_Hazirligi.ipynb` notebook'unu mutlaka çalıştırın
 - Veri seti lisans koşullarına dikkat ediniz
+- **Çıkarılan Sınıf**: `Tomato_two_spotted_spider_mites_leaf` sınıfı yeterli görüntü sayısına sahip olmadığı için veri setinden çıkarılmıştır. Bu sınıf orijinal veri setinde bulunabilir ancak model eğitimi için kullanılmamıştır.
 
 ## 📊 Veri Seti İstatistikleri
 
